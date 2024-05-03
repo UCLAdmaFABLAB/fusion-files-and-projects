@@ -14,7 +14,7 @@
     - Some general mounting brackets
 
 - All mounting holes are set on a 0.5 inch grid. All holes (except motor specific ones) are for M4 hardware
-- There is also a fusion file that contains all models for easy modification
+- There is also a [fusion file](/Fusion%20Files/Motor Brackets.f3d) that contains all models for easy modification
     - There are 3D models for the TT Motor, the Stepper Motor and the Servo which can be used to design other brackets and mounts
 
 ### Laser cut parts
