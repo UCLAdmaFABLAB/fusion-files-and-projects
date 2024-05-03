@@ -38,15 +38,15 @@
 ---
 ![Screenshot](/Images/Highway_CAD.jpg)
 ![Screenshot](/Images/Highway_CAM.jpg)
-[Highway interchange model](/Fusion%20Files/SineWave.f3d). A demo project for multiple [3D milling strategies](https://help.autodesk.com/view/fusion360/ENU/?guid=MFG-3D-MILLING-OVERVIEW). Milled out of 0.5" aluminum stock on the [Bantam Desktop CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=3069) and 0.5" MDF stock on the [Shopbot CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=1094). **These parts are hanging on the wall next to the large Shopbot machine, together with other fabrication processes for the same design**.
+[Highway interchange model](/Fusion%20Files/Highway.f3z). A demo project for multiple [3D milling strategies](https://help.autodesk.com/view/fusion360/ENU/?guid=MFG-3D-MILLING-OVERVIEW). Milled out of 0.5" aluminum stock on the [Bantam Desktop CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=3069) and 0.5" MDF stock on the [Shopbot CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=1094). **These parts are hanging on the wall next to the large Shopbot machine, together with other fabrication processes for the same design**.
 
 ---
 ![Screenshot](/Images/Handle_CAD.jpg)
 ![Screenshot](/Images/Handle_CAM.jpg)
 [3 part handle](/Fusion%20Files/Saw%20Handle.f3z). A replacement handle for the lab's panel saw. Milled out of 0.25" aluminum stock on the [Bantam Desktop CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=3069) and 0.25" MDF stock on the [Shopbot CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=1094). **Currently installed on the saw**.
 
- ## [Motor brackets](/Fusion%20Files/Brackets)
+ ## [Motor brackets](/Brackets)
 
  ![Screenshot](/Images/Brackets.jpg)
 
-[A collection](/Fusion%20Files/Brackets) of 3D printable and laser cuttable parts to interface with motors in the tangible media kits. 
+[A collection](/Brackets) of 3D printable and laser cuttable parts to interface with motors in the tangible media kits. 
