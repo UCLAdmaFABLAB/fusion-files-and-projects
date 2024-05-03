@@ -7,7 +7,7 @@
 
 ### 3D Printable parts
 
-- There are a number of .STLs ready to print in the [*3d Print*](/3D%20Print) directory. They include:
+- There are a number of .STLs ready to print in the [*3d Print*](/Brackets/3D%20Print) directory. They include:
     - Brackets and hubs for the TT motor
     - Brackets  and shaft couplers for the stepper motor
     - Brackets for the servo
@@ -19,6 +19,6 @@
 
 ### Laser cut parts
 
-- In the [*Laser Cut*](/Laser%20Cut) directory there are two vector files for cutting interchangeable cams that mount onto the TT Hubs
+- In the [*Laser Cut*](/Brackets/Laser%20Cut) directory there are two vector files for cutting interchangeable cams that mount onto the TT Hubs
     - The center sprocket should be cut out of 1/4" MDF
     - The cams themselves should be cut out of 1/4" acrylic
