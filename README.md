@@ -1,7 +1,13 @@
-# motor-brackets-and-parts
- A collection of 3D printable and laser cuttable parts to interface with motors in the tangible media kits
+# DMA Fab Lab fusion360 files and projects 
+ ### A collection of fusion 360 projects including mechanisms, CNC parts and mounting brackets
 
-![Screenshot](/Images/cover.jpg)
+ All original files can be found in the [*Fusion Files*](/Fusion%20Files) directory.
+
+ ## Mechanisms
+ These examples feature joint animations and simulations
+
+![Screenshot](/Images/Elliptical.gif)
+[Elliptical linkage](/Fusion%20Files/Elliptical%20drive.f3d)
 
 ----
 
