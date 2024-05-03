@@ -43,7 +43,7 @@
 ---
 ![Screenshot](/Images/Handle_CAD.jpg)
 ![Screenshot](/Images/Handle_CAM.jpg)
-[3 part handle](/Fusion%20Files/Saw%20Handle.f3z). A replacement handle for the lab's panel saw. Milled out of 0.25" aluminum stock on the [Bantam Desktop CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=3069) and 0.25" MDF stock on the [Shopbot CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=1094). **Currently installed on the saw**.
+[Three-part handle](/Fusion%20Files/Saw%20Handle.f3z). A replacement handle for the lab's panel saw. Milled out of 0.25" aluminum stock on the [Bantam Desktop CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=3069) and 0.25" MDF stock on the [Shopbot CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=1094). **Currently installed on the saw**.
 
  ## [Motor brackets](/Brackets)
 
