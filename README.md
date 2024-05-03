@@ -1,5 +1,5 @@
-# DMA Fab Lab fusion360 files and projects 
- ### A collection of fusion 360 projects including mechanisms, CNC parts and mounting brackets
+# DMA Fab Lab Fusion 360 files and projects 
+ ### A collection of Autodesk Fusion 360 projects including mechanisms, CNC parts and mounting brackets
 
  All original files can be found in the [*Fusion Files*](/Fusion%20Files) directory.
 

@@ -1,4 +1,4 @@
-# motor-brackets-and-parts
+# Motor brackets and parts
  A collection of 3D printable and laser cuttable parts to interface with motors in the tangible media kits
 
 ![Screenshot](/Images/Brackets.jpg)
