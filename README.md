@@ -11,12 +11,27 @@
 
 ----
 ![Screenshot](/Images/Gears.gif)
-[Gear mechanism](/Fusion%20Files/Gears.f3z). An example of gears simulated through revolute joints and [motion links](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-074622A9-EC62-4A2E-9BBC-DB61748C869F) **There's a built version of this project in the electronics lab**  
+[Gear mechanism](/Fusion%20Files/Gears.f3z). An example of gears simulated through revolute joints and [motion links](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-074622A9-EC62-4A2E-9BBC-DB61748C869F) **There's a built version of this project in the electronics lab**.  
 
 ----
 ![Screenshot](/Images/Head.gif)
 [Headbanging pin and slot mechanism](/Fusion%20Files/Head%20Linkage.f3z)
-(after [Nik Ramage](https://nikramage.com/work/brick/)). A more complex example of revolute and slider joints acting together. **There's a built version of this project in the electronics lab**  
+(after [Nik Ramage](https://nikramage.com/work/brick/)). A more complex example of revolute and slider joints acting together. **There's a built version of this project in the electronics lab**.  
+
+----
+![Screenshot](/Images/Ratchet.gif)
+[Ratchet and pawl mechanism](/Fusion%20Files/Ratchet.f3d)
+Simple example of revolute joints and [contact sets](https://help.autodesk.com/view/fusion360/ENU/?guid=ASM-CONTACT-SETS). The effect of gravity (or a spring) is simulated with the "Rest" parameter under [Joint Motion Limits](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-543C82D9-F1E8-42B3-9C34-31BB108AFAA3). **There's a built version of this project in the electronics lab**.  
+
+----
+![Screenshot](/Images/Cam.gif)
+[Cam and follower mechanism](/Fusion%20Files/Cam%20And%20Follower.f3z)
+Example of revolute and sliding joints together with [contact sets](https://help.autodesk.com/view/fusion360/ENU/?guid=ASM-CONTACT-SETS). The effect of gravity is simulated with the "Rest" parameter under [Joint Motion Limits](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-543C82D9-F1E8-42B3-9C34-31BB108AFAA3). **There's a built version of this project in the electronics lab, with interchangeable cams**.  
+
+----
+![Screenshot](/Images/Crank.gif)
+[Crankshaft mechanism](/Fusion%20Files/Crank%20Shaft.f3z)
+Example of revolute and sliding joints. [Joint Motion Limits](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-543C82D9-F1E8-42B3-9C34-31BB108AFAA3) are important here.
 
  ## CNC Projects
  These examples have all been machined and can be found around the lab. Check the *Manufacture* workspace in fusion for insight into each CNC setup. 
@@ -33,7 +48,7 @@
 ----
 ![Screenshot](/Images/Sine_CAD.jpg)
 ![Screenshot](/Images/Sine_CAM.jpg)
-[Sine wave](/Fusion%20Files/SineWave.f3d). A simple demo for [3D milling strategies](https://help.autodesk.com/view/fusion360/ENU/?guid=MFG-3D-MILLING-OVERVIEW). Milled out of 0.5" aluminum stock on the [Bantam Desktop CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=3069). 
+[Sine wave](/Fusion%20Files/Sine%20Wave.f3d). A simple demo for [3D milling strategies](https://help.autodesk.com/view/fusion360/ENU/?guid=MFG-3D-MILLING-OVERVIEW). Milled out of 0.5" aluminum stock on the [Bantam Desktop CNC Machine](https://support.dma.ucla.edu/fablab/?page_id=3069). 
 
 ---
 ![Screenshot](/Images/Highway_CAD.jpg)
